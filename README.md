@@ -49,6 +49,7 @@ A sketch customized to look like a specific board.
 A sketch customized to look like a specific board.
 
 - ESP-EYE
+- ESP32-Lyrat-4.3
 - M5StickC
 - M5StackFire
 - ATOM Echo
